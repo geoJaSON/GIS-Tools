@@ -32,8 +32,7 @@ while True:
     if gidf == "1" or gidf == "2" or gidf == "3":
         #do some
         break 
-    else if:
-        gidf == "4":
+    if gidf == "4":
         gid = input("Enter Global ID field name: ")
         break        
     else:
